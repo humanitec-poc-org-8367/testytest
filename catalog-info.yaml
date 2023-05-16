@@ -6,6 +6,6 @@ metadata:
     "humanitec.com/orgId": "htc-demo-01"
     "humanitec.com/appId": "testytest"
 spec:
-  type: service
+  type: test
   owner: user:guest
-  lifecycle: experimental
+  lifecycle: production
